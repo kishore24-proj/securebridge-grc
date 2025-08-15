@@ -22,12 +22,6 @@ Below is an overview of the files you’ll find in this folder:
 
 ## 2. Getting Started
 
-To create or update a policy:
-
-1. Copy the relevant `.md` file and rename it with a date or version suffix (e.g., `access-control-policy_v1.1.md`).  
-2. Edit the section content, ensuring you maintain the existing heading hierarchy.  
-3. Save your draft and submit a pull request against the main branch.  
-
 Every policy must include:
 - Purpose and scope  
 - Roles and responsibilities  
