@@ -1,11 +1,11 @@
-# 🧾 Internal Audit Schedule
+# Internal Audit Schedule
 
 This document outlines the schedule, scope, and responsibilities for internal audits conducted under SecureBridge-GRC’s ISMS.  
 It supports ISO 27001 Clause 9.2 and ensures ongoing compliance, control effectiveness, and continuous improvement.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Verify implementation and effectiveness of ISO 27001 controls
 - Identify nonconformities and areas for improvement
@@ -14,7 +14,7 @@ It supports ISO 27001 Clause 9.2 and ensures ongoing compliance, control effec
 
 ---
 
-## 📅 Audit Schedule
+##  Audit Schedule
 
 | Audit ID | Scope | Frequency | Auditor | Next Audit Date | Status |
 |----------|-------|-----------|---------|------------------|--------|
@@ -26,7 +26,7 @@ It supports ISO 27001 Clause 9.2 and ensures ongoing compliance, control effec
 
 ---
 
-## 🛠️ Audit Process
+##  Audit Process
 
 1. **Planning** – Define scope, objectives, and audit criteria
 2. **Execution** – Conduct interviews, review evidence, test controls
@@ -35,7 +35,7 @@ It supports ISO 27001 Clause 9.2 and ensures ongoing compliance, control effec
 
 ---
 
-## 📌 Notes
+# Notes
 
 - Audits are documented and retained for at least 3 years
 - Auditors must be independent of the area being audited
