@@ -50,6 +50,7 @@ SecureBridge-GRC/
 Contributions, feedback, and suggestions are welcome!  
 Please file an issue or open a pull request to propose changes.
 
-##⚠️ Compliance Framework Disclaimer & Legal Advisory
+
+##   ⚠️ Compliance Framework Disclaimer & Legal Advisory
 
 The Governance, Risk, and Compliance (GRC) artifacts and documentation provided in this repository (including projects based on NIST CSF, ISO 27001, etc.) are intended solely as educational examples and foundational frameworks, and using them as a basis for your organization’s compliance program requires careful review and validation. Please be advised that these frameworks do not constitute legal advice, as compliance requirements are highly specific to jurisdiction, industry, and data type; therefore, you must consult with qualified legal counsel and Subject Matter Experts (SMEs) to interpret and apply all applicable laws, as the control sets provided here represent only a structural baseline and do not cover every legal or contractual obligation. Users of this repository bear the sole responsibility for customizing, validating, and ensuring the full compliance and legal enforceability of any derived policy or procedure.
